@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VikasPrasad2212
-- 👀 I’m interested in ethical hacking and Android deveopment
-- 🌱 I'm learning Flutter Development
-- 💞️ I’m looking to collaborate on flutter Development
+- 👀 I’m interested BioInformatician
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
 <!---
