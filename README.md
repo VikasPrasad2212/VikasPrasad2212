@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VikasPrasad2212
-- 👀 I’m interested BioInformatician
+- 👀 I’m learning to be BioInformatician
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
